@@ -71,4 +71,5 @@ Symfony: 1 year
 
 ### Contact
 hello@codeone.hu
+
 https://www.linkedin.com/in/kovacsk/
