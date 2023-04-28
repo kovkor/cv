@@ -4,6 +4,16 @@
 
 ### References, projects
 
+2022:
+- Continued the cooperation with the A38 ship. The development of the ticketing system and other internal systems continued, and I also participated in some DevOps-related developments (e.g. Kubernetes monitoring system).
+- I completed the first phase of a telecommunications company's CRM system, and the transition to the new system's module managing microwave towers has been completed.
+- I created an automated video generating system for an international direct sales company, which produces video files based on uploaded images and texts (technologies: PHP Laravel, Linux, FFMpeg).
+
+2021:
+- I am still working with the A38 ship. My tasks included the further development of the ticketing system and related websites and systems. I also created a completely new website based on Drupal, which aimed to facilitate the evaluation of demo audio materials submitted by bands.
+- Development of Cloud Manager, a docker-based scalable infrastructure monitoring system.
+- I have been commissioned by a microwave telecommunications company to begin developing a full-fledged CRM system. The aim is to replace the current system with a custom-made solution. The modules to be developed include customer management, contract management, technical management, ticketing system, and inventory management system. (technology: Laravel, Docker, Linux)
+
 2020:
 - Laravel 7 based CRM system, greenfield project. Modules: customer management, billing, third party APIs connection, inventory management, HR module. The project is still in development phase. I did some devops tasks too: test environment with docker, deploy scripts.
 - Legacy PHP 5.6 (without framework) based private teacher finder service. My job is to make new developments, refactoring.
@@ -30,47 +40,47 @@
 
 2011 - 2016: Profitárhely Kft. (webhosting service) - PHP developer
 
-2009 - 2011: Business Telekom Zr. (telecommunication company) - PHP developer
+2009 - 2011: Business Telekom Zrt. (telecommunication company) - PHP developer
 
 2003 - 2009: Fibernet Zrt. (telecommunication company) - CATV network designer and PHP developer
 
 ### Skills
 
-*PHP*: 0|XXXXXXXXX-|10
+*PHP*: 10/9
 
-*Docker*: 0|XXXXXXX---|10
+*Docker*: 10/8
 
-*MySQL*: 0|XXXXXXXXX-|10
+*MySQL*: 10/8
 
-*Linux*: 0|XXXXXXXX--|10
+*Linux*: 10/7
 
-*Laravel*: 0|XXXXXXXX--|10
+*Laravel*: 10/8
 
-*Symfony*: 0|XXXXX-----|10
+*Symfony*: 10/3
 
-*Javascript*: 0|XXXXXX----|10
+*Javascript*: 10/5
 
-*GIT*: 0|XXXXXXXXX-|10
+*GIT*: 10/8
 
-*Drupal*: 0|XXXXXXX---|10
+*Drupal*: 10/7
 
 ### Experiences
 
-PHP: 12+ years
+PHP: 14+ years
 
-MySQL: 8+ years
+MySQL: 10+ years
 
-Linux: 8+ years
+Linux: 10+ years
 
-GIT: 5 years
+GIT: 7 years
 
-Drupal: 4+ years
+Drupal: 6+ years
 
-Docker: 4 years
+Docker: 6 years
 
-Laravel: 2 years
+Laravel: 4 years
 
-Symfony: 1 year
+Symfony: 3 years
 
 ### Contact
 hello@codeone.hu
